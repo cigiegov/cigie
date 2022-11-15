@@ -3,8 +3,8 @@
 # The owners listed below will be the default owners for everything in the
 # repo. Unless a later match takes precedence, these owners will be
 # requested for review when someone opens a pull request.
-* @nikkolas-irwin
+* @nikkolas-irwin @alexpadillacigie @nickjanushevichcigie @sabeelee7
 
 # Further, the owners listed below own any change inside the .github directory
 # at the root of the repository and any of its subdirectories.
-/.github/ @nikkolas-irwin
+/.github/ @nikkolas-irwin @alexpadillacigie @nickjanushevichcigie @sabeelee7
