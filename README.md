@@ -1,5 +1,7 @@
 ![CIGIE Logo](./img/cigie_logo.png)
 
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCdcuFD92zSZ3GEH1Nq5m9BQ) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/cigiegov?lang=en)
+
 # CIGIE
 
 ## What is CIGIE?
