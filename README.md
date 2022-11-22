@@ -20,7 +20,9 @@ CIGIE on GitHub Enterprise Cloud is one of many shared services identified and i
 
 ## Onboarding Instructions
 
-If you're a member of an IG and you'd like to get involved with CIGIE on GitHub Enterprise Cloud please contact [github@cigie.gov](mailto:github@cigie.gov) to initiate the onboarding process. A CIGIE GitHub Enterprise Cloud administrator will provide you with the _User Agreement_ and _Rules of Behavior_ after identity verification. These steps must be completed and the provided documents must be signed prior to receving a user license and each member of your IG seeking a user license must complete their own onboarding process.
+If you're a member of an IG and you'd like to get involved with CIGIE on GitHub Enterprise Cloud please contact [github@cigie.gov](mailto:github@cigie.gov) to initiate the onboarding process. A CIGIE GitHub Enterprise Cloud administrator will provide you with the _User Agreement_ and _Rules of Behavior_ after identity verification. These steps must be completed and the provided documents must be signed prior to receving a user license. Additionally, each member of your IG seeking a user license must complete their own onboarding process.
+
+Note: [2FA](https://docs.github.com/en/authentication/securing-your-account-with-two-factor-authentication-2fa) is also required for all accounts.
 
 ### Email Instructions
 
