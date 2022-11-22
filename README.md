@@ -17,3 +17,26 @@ CIGIE Shared Services is a working group under the CIGIE Information Technology 
 ## CIGIE on GitHub Enterprise Cloud
 
 CIGIE on GitHub Enterprise Cloud is one of many shared services identified and implemented for the benefit of the CIGIE community. The goal of this service is to provide an easy way for Offices of Inspectors General (OIGs) to collaborate on software projects and to share code. The service is available to all OIGs.
+
+## Onboarding Instructions
+
+If you're a member of an IG and you'd like to get involved with CIGIE on GitHub Enterprise Cloud please contact [github@cigie.gov](mailto:github@cigie.gov) to initiate the onboarding process. A CIGIE GitHub Enterprise Cloud administrator will provide you with the _User Agreement_ and _Rules of Behavior_ after identity verification. These steps must be completed and the provided documents must be signed prior to receving a user license and each member of your IG seeking a user license must complete their own onboarding process.
+
+### Email Instructions
+
+Please structure your email to [github@cigie.gov](mailto:github@cigie.gov) in the following manner.
+
+```raw
+[Subject Line]: CIGIE - GitHub Enterprise Cloud Onboarding - User License Request
+
+[Body]:
+
+The email to the CIGIE GitHub Enterprise Cloud administrators should include your...
+
+- IG
+- Position
+- Full Name
+- Phone Number
+- Interests in joining the platform
+- Intended contributions on the platform for the benefit of the CIGIE community
+```
