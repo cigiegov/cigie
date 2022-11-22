@@ -16,29 +16,39 @@ CIGIE Shared Services is a working group under the CIGIE Information Technology 
 
 ## CIGIE on GitHub Enterprise Cloud
 
-CIGIE on GitHub Enterprise Cloud is one of many shared services identified and implemented for the benefit of the CIGIE community. The goal of this service is to provide an easy way for Offices of Inspectors General (OIGs) to collaborate on software projects and to share code. The service is available to all OIGs.
+CIGIE on GitHub Enterprise Cloud (GHEC) is one of many shared services identified and implemented for the benefit of the CIGIE community. The goal of this service is to provide an easy way for Offices of Inspectors General (OIGs) to collaborate on software projects and to share code. The service is available to all OIGs.
 
 ## Onboarding Instructions
 
-If you're a member of an IG and you'd like to get involved with CIGIE on GitHub Enterprise Cloud please contact [github@cigie.gov](mailto:github@cigie.gov) to initiate the onboarding process. A CIGIE GitHub Enterprise Cloud administrator will provide you with the _User Agreement_ and _Rules of Behavior_ after identity verification. These steps must be completed and the provided documents must be signed prior to receving a user license. Additionally, each member of your IG seeking a user license must complete their own onboarding process.
+If you're a member of an IG and you'd like to get involved with CIGIE on GHEC please contact [github@cigie.gov](mailto:github@cigie.gov) to initiate the onboarding process. A CIGIE GHEC administrator will provide you with the **_User Agreement_** and **_Rules of Behavior_** after identity verification. These steps must be completed and the provided documents must be signed prior to receving a user license. **Additionally, each member of your IG seeking a user license must complete their own onboarding process.**
+### Setup GitHub
 
-Note: [2FA](https://docs.github.com/en/authentication/securing-your-account-with-two-factor-authentication-2fa) is also required for all accounts.
+1. Please [create a GitHub account](https://docs.github.com/en/get-started/onboarding/getting-started-with-your-github-account#1-creating-an-account) using your **officially issued email address** from your IG.
+2. After creating your new GitHub account, you need to [verify your account](https://docs.github.com/en/get-started/signing-up-for-github/verifying-your-email-address).
+3. Then, you need to configure [two-factor authentication (2FA)](https://docs.github.com/en/authentication/securing-your-account-with-two-factor-authentication-2fa/configuring-two-factor-authentication). There are various methods for doing so but this is required for all accounts.
+4. Email CIGIE GHEC administrators [github@cigie.gov](mailto:github@cigie.gov). Please see the section below, [Email Instructions](#email-instructions), for details.
+
+
+:warning: CIGIE GHEC administrators will **ONLY** accept officially issued email addresses. Any user license requests from unofficial sources will be discarded immediately without further consideration, no exceptions.
 
 ### Email Instructions
 
 Please structure your email to [github@cigie.gov](mailto:github@cigie.gov) in the following manner.
 
 ```raw
-[Subject Line]: CIGIE - GitHub Enterprise Cloud Onboarding - User License Request
+[Subject Line]: CIGIE - GHEC Onboarding - User License Request
 
 [Body]:
 
-The email to the CIGIE GitHub Enterprise Cloud administrators should include your...
+The email to the CIGIE GHEC administrators should include your...
 
 - IG
 - Position
-- Full Name
-- Phone Number
-- Interests in joining the platform
+- Full name
+- Phone number
+- GitHub username
 - Intended contributions on the platform for the benefit of the CIGIE community
 ```
+
+5. After initial verification, you will be provided with the **_User Agreement_** and **_Rules of Behavior_** by CIGIE GHEC administrators. Review, sign, and return these documents.
+6. You're all done! :clap: You should receive a notification by email once you've been granted access with an invitation to the CIGIE GHEC environment.
