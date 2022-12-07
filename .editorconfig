@@ -61,6 +61,7 @@ indent_style = tab
 
 # Python Files
 [*.{ini,py,py.tpl,rst}]
+profile = hug
 indent_style = space
 indent_size = 4
 skip = build,.tox,venv
